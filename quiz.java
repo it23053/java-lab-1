@@ -84,7 +84,7 @@ public class quiz {
         System.out.println("Your final score is: " + score + " out of 5");
 
 
-        // Step 8: Close the Scanner b
+        // Step 8: Close the Scanner 
         scanner.close();
 
     }
