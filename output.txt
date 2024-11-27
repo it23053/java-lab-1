@@ -1,0 +1,1 @@
+Highest Value: 50Sum of Values: 115
